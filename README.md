@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kabirshuvo
-- 👀 I’m interested in pentesting
-- 🌱 I’m currently learning python and linux
-- 💞️ I’m looking to collaborate on bugbounting
+- 👋 Hi, I’m @kabirshuvo;
+- 👀 I’m interested in Front-End web development;
+- 🌱 I’m currently learning HTML, Scss and JavaScript;
+- 💞️ I’m looking to collaborate on JavaScript;
 - 📫 How to reach me... Just email me at kabirshuvo19@gmail.com or u can call me on my mobile phone +8801717515631
 
 <!---
