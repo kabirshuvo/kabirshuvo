@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @kabirshuvo;
 - 👀 I’m interested in Front-End web development;
-- 🌱 I’m currently learning HTML, Scss and JavaScript;
-- 💞️ I’m looking to collaborate on JavaScript;
-- 📫 How to reach me... Just email me at kabirshuvo19@gmail.com or u can call me on my mobile phone +8801717515631
+- 🌱 I’m currently learning JavaScript;
+- 💞️ I’m looking to collaborate on JavaScript and ofcourse web development;
+- 📫 kabirshuvo19@gmail.com is my email ID. 
+
+<h1> Have a Nicw day and Salute </h1>
 
 <!---
 kabirshuvo/kabirshuvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
