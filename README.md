@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kabirshuvo;
-- 👀 I’m interested in Front-End web development;
-- 🌱 I’m currently learning JavaScript;
-- 💞️ I’m looking to collaborate on JavaScript and ofcourse web development;
+- 👀 JavaScript Enthusiast React Developer;
+- 🌱 I’m currently learning React ;
+- 💞️ I’m looking to collaborate on frontEnd web app developments;
 - 📫 kabirshuvo19@gmail.com is my email ID. 
 
 <h1> I'm Watching You </h1>
