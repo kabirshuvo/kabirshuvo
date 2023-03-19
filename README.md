@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kabirshuvo;
+- 👋 Hi, I’m @ Kabir Shuvo;
 - 👀 JavaScript Enthusiast React Developer;
 - 🌱 I’m currently learning React ;
 - 💞️ I’m looking to collaborate on frontEnd web app developments;
