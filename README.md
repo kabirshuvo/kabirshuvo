@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Kabir Shuvo;
 - 👀 JavaScript Enthusiast React Developer;
-- 🌱 I’m currently learning React ;
+- 🌱 I’m currently learning NEXT.JS-13.4 ;
 - 💞️ I’m looking to collaborate on frontEnd web app developments;
 - 📫 kabirshuvo19@gmail.com is my email ID. 
 
