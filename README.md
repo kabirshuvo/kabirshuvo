@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontEnd web app developments;
 - 📫 kabirshuvo19@gmail.com is my email ID. 
 
-<h2> A Digital Nomad </h2>
+<h2> Honesty is the key to success </h2>
 
 <!---
 kabirshuvo/kabirshuvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
