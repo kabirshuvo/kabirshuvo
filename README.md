@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on frontEnd web app developments;
 - 📫 kabirshuvo19@gmail.com is my email ID. 
 
-<h2> 1+1=1 || you have 2 stop being afraid... Sanna Marin. </h2>
+<h2> you have 2 stop being afraid. --Sanna_Marin. </h2>
 
 <!---
 kabirshuvo/kabirshuvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
