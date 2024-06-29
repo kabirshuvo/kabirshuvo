@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @ Kabir Shuvo;
 - 👀 JavaScript Enthusiast React Developer;
-- 🌱 I’m currently using next.JS-13.4 along with grafbase ;
-- 🌱 Dreaming to learn webassembly.
-- 💞️ I’m looking to collaborate on frontEnd web app developments;
-- 📫 kabirshuvo19@gmail.com is my email ID. 
-
-<h5> you have to stop being afraid. --Sanna_Marin. </h5>
+- 🌱 I’m currently using next.JS-14.2.3 along with grafbase ;
+- 🌱 Dreaming to learn webassembly soon.
+- 💞️ I’m looking to collaborate on Javascipt app developments;
+- 📫 kabirshuvo19@gmail.com.
+   
+<h5>My also do believe it </h5>
+<h2> you have to stop being afraid. --Sanna_Marin. </h2>
 
 <!---
 kabirshuvo/kabirshuvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
