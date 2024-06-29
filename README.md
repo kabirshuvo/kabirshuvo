@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Javascipt app developments;
 - 📫 kabirshuvo19@gmail.com.
    
-<h5>My also do believe it </h5>
+<h5>Salute to Sana Marin for this Inspiration. </h5>
 <h2> you have to stop being afraid. --Sanna_Marin. </h2>
 
 <!---
